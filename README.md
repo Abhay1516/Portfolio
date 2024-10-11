@@ -34,13 +34,13 @@ Welcome to my personal developer portfolio! This project is built to showcase my
 ## Screenshots
 
 ### Home Section
-![Home Section](screenshots/home.png)
+![Home Section](C:\Users\singh\Webclassroom\js\javascript classroom\Git demo\Portfolio\images)
 
 ### About Section
-![About Section](screenshots/about.png)
+![About Section](images/Aboutpage.png)
 
 ### Skills Section
-![Skills Section](screenshots/skills.png)
+![Skills Section](images/skills.png)
 
 ---
 
